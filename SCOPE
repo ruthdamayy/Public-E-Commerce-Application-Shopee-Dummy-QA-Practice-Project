@@ -1,0 +1,13 @@
+✅ In Scope 
+1. Login
+2. Product Search
+3. Product Detail
+4. Add to Cart
+5. Checkout
+6. Logout
+
+❌ Out of Scope
+1. Payment gateway real
+2. Performance testing
+3. Security testing
+4. Seller dashboard
